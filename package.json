@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abhinavshrivastava12.github.io/professional-networking-platform",
+  "homepage": "https://github.com/yashveerji/Global_Connect",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@reduxjs/toolkit": "^2.8.2",
