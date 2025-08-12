@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/professional-networking-platform/static/css/main.57e0ec0f.css",
+    "main.js": "/professional-networking-platform/static/js/main.e4c72f3a.js",
+    "index.html": "/professional-networking-platform/index.html",
+    "main.57e0ec0f.css.map": "/professional-networking-platform/static/css/main.57e0ec0f.css.map",
+    "main.e4c72f3a.js.map": "/professional-networking-platform/static/js/main.e4c72f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e0ec0f.css",
+    "static/js/main.e4c72f3a.js"
+  ]
+}
