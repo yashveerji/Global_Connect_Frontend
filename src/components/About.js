@@ -16,8 +16,8 @@ const About = () => {
 
       <h3 className="text-xl font-semibold mt-6 mb-2 text-gray-800">👨‍💻 Project Contributors:</h3>
       <ul className="list-disc list-inside text-gray-700 space-y-1">
-        <li><strong>Abhinav Shrivastava</strong> – Lead Developer & Project Architect</li>
-        <li><strong>Yashveer Singh</strong> – Backend & Database Engineer</li>
+        <li><strong>Abhinav Shrivastava</strong> – Lead Developer & Project Architect</li> 
+        <li><strong>Yashveer Singh</strong> – Lead Developer (Backend & DB Engineer/ T & D / API Integration & Deployment )</li>
         <li><strong>Ritesh Tiwari</strong> – Frontend & UI/UX Designer</li>
         <li><strong>Manu Omar</strong> – Testing & Debugging Specialist</li>
         <li><strong>Nitesh Yadav</strong> – API Integration & Deployment Manager</li>
